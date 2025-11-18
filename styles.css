@@ -171,8 +171,7 @@ HIGHLIGHTS
     left: 0;
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: bottom;
-    transform: translateX(-1vw);
+    transform: translateY(-100%);
     z-index: 1;
 }
 
@@ -186,8 +185,7 @@ HIGHLIGHTS
     left: 0;
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: top;
-    transform: translateX(-1vw) rotate(180deg);
+    transform: translateY(-100%) rotate(180deg);
     z-index: 1;
 }
 

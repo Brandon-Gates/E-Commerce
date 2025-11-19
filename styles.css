@@ -428,19 +428,21 @@ footer {
 @media (max-width: 550px) {
     .nav__links {
         display: none;
-    }
+}
     
-    btn__menu {
+    .btn__menu {
     display: block;
-    }
+}
     .highlight {
     width: 100%;
-    }
+}
 
     .highlight:not(:last-child) {
     margin-bottom: 24px;
-    }
 }
+
+}
+
 
 
 
